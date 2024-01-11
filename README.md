@@ -1,4 +1,4 @@
 # Learning Bash-Scripting
-## Basics
+## Basic
 ## to
 ## Advanced
